@@ -1,10 +1,3 @@
-Tipaine : 5.00€/mois
-Jaoul : 5.00€/mois
-Tom Phoenix : 6.00€/mois
-GodEater : 6.00€/mois
-Hactazia : 6.00€/mois
-Tom_Phoenix : 6.00€/mois
-Hanna rouly : 6.00€/mois
-Nyanyny : 2.00€/mois
-nya nyny : 2.00€/mois
+Canaha : 3.00€/month
+Wawaboy : 3.00€/month
 Jo Example : 3.00€
